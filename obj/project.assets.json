@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/tehreemharoon/.nuget/packages/": {}
+    "/Users/mera_leon/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tehreemharoon/Desktop/Projects/ClassProject002/ClassProject002.csproj",
+      "projectUniqueName": "/Users/mera_leon/Desktop/Projects/ClassProject002/ClassProject002.csproj",
       "projectName": "ClassProject002",
-      "projectPath": "/Users/tehreemharoon/Desktop/Projects/ClassProject002/ClassProject002.csproj",
-      "packagesPath": "/Users/tehreemharoon/.nuget/packages/",
-      "outputPath": "/Users/tehreemharoon/Desktop/Projects/ClassProject002/obj/",
+      "projectPath": "/Users/mera_leon/Desktop/Projects/ClassProject002/ClassProject002.csproj",
+      "packagesPath": "/Users/mera_leon/.nuget/packages/",
+      "outputPath": "/Users/mera_leon/Desktop/Projects/ClassProject002/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/tehreemharoon/.nuget/NuGet/NuGet.Config"
+        "/Users/mera_leon/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
