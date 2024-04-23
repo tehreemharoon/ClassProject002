@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tehreemharoon/Desktop/Projects/ClassProject002/ClassProject002.csproj": {}
+    "C:\\Users\\booma\\c#code\\testProject\\Assignments\\ClassProject002\\ClassProject002.csproj": {}
   },
   "projects": {
-    "/Users/tehreemharoon/Desktop/Projects/ClassProject002/ClassProject002.csproj": {
+    "C:\\Users\\booma\\c#code\\testProject\\Assignments\\ClassProject002\\ClassProject002.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tehreemharoon/Desktop/Projects/ClassProject002/ClassProject002.csproj",
+        "projectUniqueName": "C:\\Users\\booma\\c#code\\testProject\\Assignments\\ClassProject002\\ClassProject002.csproj",
         "projectName": "ClassProject002",
-        "projectPath": "/Users/tehreemharoon/Desktop/Projects/ClassProject002/ClassProject002.csproj",
-        "packagesPath": "/Users/tehreemharoon/.nuget/packages/",
-        "outputPath": "/Users/tehreemharoon/Desktop/Projects/ClassProject002/obj/",
+        "projectPath": "C:\\Users\\booma\\c#code\\testProject\\Assignments\\ClassProject002\\ClassProject002.csproj",
+        "packagesPath": "C:\\Users\\booma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\booma\\c#code\\testProject\\Assignments\\ClassProject002\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/tehreemharoon/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\booma\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
