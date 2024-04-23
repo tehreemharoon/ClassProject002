@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tehreemharoon/Desktop/Projects/ClassProject002/ClassProject002.csproj": {}
+    "/Users/saulperez/insy 4051/ClassProject002/ClassProject002.csproj": {}
   },
   "projects": {
-    "/Users/tehreemharoon/Desktop/Projects/ClassProject002/ClassProject002.csproj": {
+    "/Users/saulperez/insy 4051/ClassProject002/ClassProject002.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tehreemharoon/Desktop/Projects/ClassProject002/ClassProject002.csproj",
+        "projectUniqueName": "/Users/saulperez/insy 4051/ClassProject002/ClassProject002.csproj",
         "projectName": "ClassProject002",
-        "projectPath": "/Users/tehreemharoon/Desktop/Projects/ClassProject002/ClassProject002.csproj",
-        "packagesPath": "/Users/tehreemharoon/.nuget/packages/",
-        "outputPath": "/Users/tehreemharoon/Desktop/Projects/ClassProject002/obj/",
+        "projectPath": "/Users/saulperez/insy 4051/ClassProject002/ClassProject002.csproj",
+        "packagesPath": "/Users/saulperez/.nuget/packages/",
+        "outputPath": "/Users/saulperez/insy 4051/ClassProject002/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/tehreemharoon/.nuget/NuGet/NuGet.Config"
+          "/Users/saulperez/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
